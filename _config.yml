@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "GDG Kolkata"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "Google Developer Group Kolkata - Open and Collaborative community for professional and student developers in Kolkata."
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -21,15 +21,15 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "GDG Kolkata"
+organizerAlternateName: "Google Developer Group Kolkata"
+organizerDescription: "Open and Collaborative community for professional and student developers in Kolkata, passionate about technology."
+organizerEmail: "gdgkolkata@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://gdgkolkata.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, kolkata"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -56,37 +56,37 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroTitle: "GDG Kolkata <typeout>"
+eventDate: "Google Developer Group Kolkata"
+typeoutTextValues: '"", "DevFest", "I/O Extended", "Seminars", "Workshops", "Hackathons"'
+typeoutFallback: "City Of Joy"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+## - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About GDG Kolkata"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "DevFest", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "I/O Extended", image: "workshop.jpg", text: "Community meetup to dive deeper and discuss about the latest announcements at Google I/O." }
+ - {title: "Events", image: "hackathon.jpg", text: "Workshops, Seminars, Hackathons and Code Sprints!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from across Bengal"}
  - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from various domains"}
+## - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "GDG Kolkata Members"
+rockstarSpeakersButtonText: "See all community members"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -174,20 +174,19 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://plus.google.com/101088239935634377703", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://www.facebook.com/GDGKolkata", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgkolkata@gmail.com", text: "gdgkolkata@gmail.com"}
  -
   title: "FAQ"
   links:
