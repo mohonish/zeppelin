@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Events"}
 ## - {permalink: "/schedule/", text: "Schedule"}
 ## - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
@@ -66,7 +66,7 @@ heroButtons:
 ## - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG Kolkata"
+aboutTitle: "Our Vision and Mission"
 aboutBlock:
  - {title: "DevFest", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "I/O Extended", image: "workshop.jpg", text: "Community meetup to dive deeper and discuss about the latest announcements at Google I/O." }
